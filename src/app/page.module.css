@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.nextandprev {
+  margin: auto;
+  color: #81fe88;
+}
